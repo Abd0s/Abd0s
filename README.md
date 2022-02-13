@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Abd0s
-- 👀 I’m studying electrical engineering
-- 🌱 I’m currently learning 3D graphics
 - 📫 How to reach me Abdos#0111 (Discord)
 
 <!---
